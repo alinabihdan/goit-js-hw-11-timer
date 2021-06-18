@@ -26,6 +26,8 @@ body {
 }
 
 .field {
+  width: 180px;
+  text-align: center;
   border-radius: 20px;
   background-color: black;
   color: aliceblue;
